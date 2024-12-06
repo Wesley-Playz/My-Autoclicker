@@ -3,4 +3,4 @@ An autoclicker I made because I was bored
 
 
 
-pip install pynput keyboard
+just install python3 and run `pip install pynput keyboard`
